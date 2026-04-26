@@ -1,5 +1,6 @@
 Estudante de **Tecnologia em Sistemas Inteligentes** focado em engenharia de dados.
-Com foco em pipelines ETL, Data Warehouses e infraestrutura de dados com Python, Spark e SQL Server.
+
+Foco atual: Aprendizado em pipelines ETL, Data Warehouses e infraestrutura de dados com Python, Spark e SQL Server.
 
 ---
 
